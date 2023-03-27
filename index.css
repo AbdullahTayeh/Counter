@@ -1,0 +1,51 @@
+body {
+    background-image: url('/photo-1527698334848-f475f9d99449.avif') ;
+    background-size: cover;
+    font-family: -BlinkMacSystemFont, 'Segoe UI', -apple-system,  Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    height: 100vh
+} 
+
+.container {
+    background: white;
+    max-width: 80%;
+    margin: auto;
+    border: 2px solid ;
+    border-radius: 10px;
+    border-color: rgb(13, 140, 157);
+
+
+}
+
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+h2 {
+
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 30px;
+
+}
+button {
+    border: 1px solid rgb(73, 73, 87);
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: blanchedalmond;
+    font-weight: lighter;
+    width: 110px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: rgb(68, 57, 57);
+}
+
+#save-btn {
+    background: rgb(13, 140, 157);
+}
